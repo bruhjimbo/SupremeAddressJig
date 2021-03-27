@@ -5,6 +5,7 @@ Supreme Address Jig
 ## Table of contents
 * [General info](#general-info)
 * [Example Usage](#example-usage)
+* [License](#license)
 
 ## General info
 This is a very simple Java library to jig one's address for Supreme
@@ -34,3 +35,7 @@ AB208 123 Apple Street
 AB629 123 Apple Street
 AB516 123 Apple Street
 ```
+## License
+>You can check out the full license [here](https://github.com/bruhjimbo/SupremeAddressJig/blob/master/LICENSE)
+
+This project is licensed under the terms of the **MIT** license.
