@@ -1,6 +1,6 @@
 Supreme Address Jig
 ============
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/bruhjimbo/SupremeAddressJig/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/bruhjimbo/SupremeAddressJig/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/bruhjimbo/SupremeAddressJig/node-chat)
+[![GitHub Stars](https://img.shields.io/github/stars/bruhjimbo/SupremeAddressJig.svg)](https://github.com/bruhjimbo/SupremeAddressJig/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/bruhjimbo/SupremeAddressJig.svg)](https://github.com/bruhjimbo/SupremeAddressJig/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/bruhjimbo/SupremeAddressJig/node-chat)
 
 ## Table of contents
 * [General info](#general-info)
